@@ -1,3 +1,5 @@
+
+改良版的opencv ppf 匹配
 # Surface Matching using Point Pair Features
 
 As part of Google Summer of Code 2014, this project constitutes my developments of a surface matching module into OpenCV. The general approach is based on [1]. The sample file is included within the main module, and also the test data. The actual module will soon be integrated into OpenCV, hopefully with better samples and documentation.
